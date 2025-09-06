@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="76acaf82-5ee8-4384-8d0d-2a7e2e8feeec" src="https://github.com/user-attachments/assets/b420725c-04ef-467b-acae-3bc8776b7264" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/94e5b5a6-d594-4bda-8089-d4aeee6b3809" />
 # Power BI Dashboard – Project 1
 
 ## 📊 Project Overview
